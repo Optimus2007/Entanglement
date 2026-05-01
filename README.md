@@ -142,7 +142,7 @@ This work opens up directions in:
 
 Developed by **Team Entanglement**:
 
-- Aditya Raj (Team Leader)  
+- Aditya Raj   
 - Oishik Kar  
 - Noble Agyeman-Bobie  
 
